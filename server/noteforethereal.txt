@@ -1,0 +1,2 @@
+all the message will go to the ethereal mailbox 
+that has be set in the transporter setting
