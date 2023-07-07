@@ -1,0 +1,13 @@
+all code same for sending mail from gmail using nodemailer
+
+but for gmail we need app password.
+
+process to create app password for gmail:
+
+  1.create a gmail
+  2.go to manage your google account
+  3.go to security
+  4.enable 2 step verification
+  5.go to app password (this is also in 2 step verification option)
+  6.create app password for mail select cutom or ther option and give name
+  7.copy that password and paste in password field in code env file
