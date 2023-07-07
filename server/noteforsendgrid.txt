@@ -1,0 +1,15 @@
+go to sendgrid and create account
+use authy app to verify 2fa
+create user identity
+create api key
+store it in env file
+
+npm install  @sendgrid/mail
+
+create controller sendEmailFromSendGrid
+
+export sendMail 
+import this in app.js
+
+the create route and run this controller 
+app.get('/sendmail',sendMail)
